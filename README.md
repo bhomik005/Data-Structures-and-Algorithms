@@ -26,3 +26,9 @@ Node is one of the basic building blocks of many data structures in C++ such as 
 <div style="text-align: center;">
     <img src="images/node.png" alt="node">
 </div>
+
+## 4. Singly Linked List
+A singly linked list is a collection of nodes in which each and every node has a value and a pointer to the next node. In a singly linked list, we also have a pointer pointing to the head node and other pointer pointing to the tail node. That will make the insertion and removal at the front and the end of the list will be constant time. Inserting a node in the middle will be linear time similar to the the list data structure. Fetching a node will be linear time as well because we need to start from the head node and iterate over all the way to the destination node.
+<div style="text-align: center;">
+    <img src="images/singlyLinkedList.png" alt="singlyLinkedList">
+</div>
