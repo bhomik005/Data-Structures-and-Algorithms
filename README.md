@@ -17,3 +17,8 @@ A list is a sequence of items of the same data type, where the order of the item
 7. ~List() - frees up the memory when the list is not in use
 
 For the simplicity, we are going to store elements of int data type.
+
+## 3. Node
+Node is one of the basic building blocks of many data structures in C++ such as linked list, binary search tree etc. Node has functions - one is to store the value and the other is to store the object reference pointer, a pointer to the next node.
+
+![node](images/node.png)
