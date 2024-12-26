@@ -1,6 +1,11 @@
 # Data Structures and Algorithms
 
-## 1. List ADT
+## 1. Array
+An array is a data structure that stores a group of elements of same data type in contiguous memory locations.
+
+![array](images/array.png)
+
+## 2. List ADT
 A list is a sequence of items of the same data type, where the order of the item’s position matters. In order to implement the list abstract data type, we need to think about - what type of data we want to store and what operations we want to support / perform on the data. The operations that we want to support -
 
 1. Get(i) - fetch the element at the i index if it exists, unless return -1
