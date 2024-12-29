@@ -39,6 +39,8 @@ void LinkedList<T>::InsertHead(T val) {
     if(m_count == 0) {
         Tail = Head;
     }
+    // One element is aded
+    m_count++;
 
 }
 
