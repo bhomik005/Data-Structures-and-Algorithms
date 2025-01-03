@@ -11,7 +11,7 @@ template<typename T>
 Node<T>* LinkedList<T>::Get(int index){
     // index out of bounds
     if(index < 0 || index >= m_count) {
-        return -1;
+        return NULL;
     }
     // Start from the Head node
     Node<T>* node = Head;

@@ -32,3 +32,9 @@ A singly linked list is a collection of nodes in which each and every node has a
 <div style="text-align: center;">
     <img src="images/singlyLinkedList.png" alt="singlyLinkedList">
 </div>
+
+## 5. Doubly Linked List
+A doubly linked list is similar to the singly linked list except in a doubly linked list, a node has an additional Previous pointer that makes the list possible to traverse backwards from Tail to Head.
+<div style="text-align: center;">
+    <img src="images/doublyLinkedList.png" alt="doublyLinkedList">
+</div>
