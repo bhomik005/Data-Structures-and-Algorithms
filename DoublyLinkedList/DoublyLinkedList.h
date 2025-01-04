@@ -54,5 +54,5 @@ public:
     void PrintListBackward();
 };
 
-
+#include "DoublyLinkedList.tpp"
 #endif //DATASTRUCTURESANDALGORITHMS_DOUBLYLINKEDLIST_H
